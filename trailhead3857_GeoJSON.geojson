@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "trailhead3857_GeoJSON",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ -12973822.714436648413539, 3999125.557526158634573 ] } }
+]
+}

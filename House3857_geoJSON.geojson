@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "House3857_geoJSON",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ -12973139.030671019107103, 4000417.603854490909725 ] } }
+]
+}
